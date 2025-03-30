@@ -1,0 +1,33 @@
+[
+    {
+        "id" : 1,
+        "name" : "miso",
+        "caste" : "kim Miso",
+        "food ": [
+            {
+                "eggs" : "miso Likes Eggs "
+            }
+        ]
+    },
+    {
+        "id" : 2, 
+        "name" : "Bhim Magar",
+        "caste" : "it's not good for you ",
+        "food ": [
+            {
+                "thupa" : "Vim likes thupa "
+            }
+        ]
+    }, 
+
+    {
+        "name": "Some Name",
+        "food": [
+          { "thupa": "Food Item 1" },
+          { "thupa": "Food Item 2" }
+        ]
+      }
+]
+
+    
+  
